@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 5,
-  "versionName": "2.1",
-  "releaseNotes": "Sales Point app update and improved.",
-  "apkUrl": "https://github.com/boy2yaw/SalesRecordUpdate/releases/download/v2.1/Sales-Point.apk"
+  "versionCode": 6,
+  "versionName": "3.0",
+  "releaseNotes": "Update notification on device\nUpdate notification on app",
+  "apkUrl": "https://github.com/boy2yaw/SalesRecordUpdate/releases/download/v3.0/Sales-Point.apk"
 }
 
