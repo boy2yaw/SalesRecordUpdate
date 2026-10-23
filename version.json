@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 7,
-  "versionName": "3.2.1",
-  "releaseNotes": "Beggining and Ending inventory minor bug fixed\nOther minor issues",
-  "apkUrl": "https://github.com/boy2yaw/SalesRecordUpdate/releases/download/v3.2.1/Sales-Point.apk"
+  "versionCode": 8,
+  "versionName": "3.3.5",
+  "releaseNotes": "Colored Customers Name\nfix minor issues\nPrompt Message for Saving",
+  "apkUrl": "https://github.com/boy2yaw/SalesRecordUpdate/releases/download/v3.3.5/Sales-Point.apk"
 }
 
