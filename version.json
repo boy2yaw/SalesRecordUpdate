@@ -1,8 +1,8 @@
 
 {
-  "versionCode": 10,
-  "versionName": "4.1.4",
-  "releaseNotes": "new feature select language\nrename collection to accounts receivable\ncollection logic improved",
-  "apkUrl": "https://github.com/boy2yaw/SalesRecordUpdate/releases/download/v4.1.4/Sales-Point.apk"
+  "versionCode": 11,
+  "versionName": "4.0",
+  "releaseNotes": "rounded corner dialog box\nversion ready for migration\nto latest version from DroidCraft-IDE",
+  "apkUrl": "https://github.com/boy2yaw/SalesRecordUpdate/releases/download/v4.5.0/Sales-Point.apk"
 }
 
